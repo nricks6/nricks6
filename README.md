@@ -13,3 +13,7 @@ I've spent 8 years in strategy and growth across Goldman Sachs, venture capital 
 ## How I work
 
 I start with the problem, build a working version quickly and improve it through use. Much of my recent work is in private repos, and many of those commits are made by my AI agent, which I direct and review.
+
+## Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/nathanricks6/)
